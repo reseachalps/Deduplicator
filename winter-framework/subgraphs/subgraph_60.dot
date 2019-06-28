@@ -1,0 +1,5 @@
+graph {
+_62032__university_caen_normandy___caen_ -- _1713__universite_caen_normandie___caen_
+_68455__university_caen_normandie___caen_ -- _62032__university_caen_normandy___caen_
+_68455__university_caen_normandie___caen_ -- _1713__universite_caen_normandie___caen_
+}

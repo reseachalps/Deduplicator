@@ -1,0 +1,12 @@
+graph {
+_79090__eth_zurich___zurich_ -- _50472__eth_zurich___zurich_
+_79090__eth_zurich___zurich_ -- _76278__eth_zurich___zurich_
+_79090__eth_zurich___zurich_ -- _77857__eth_zurich___zurich_
+_20127__eth_zurich___zurich_ -- _79090__eth_zurich___zurich_
+_20127__eth_zurich___zurich_ -- _50472__eth_zurich___zurich_
+_76278__eth_zurich___zurich_ -- _77857__eth_zurich___zurich_
+_76278__eth_zurich___zurich_ -- _20127__eth_zurich___zurich_
+_50472__eth_zurich___zurich_ -- _76278__eth_zurich___zurich_
+_77857__eth_zurich___zurich_ -- _50472__eth_zurich___zurich_
+_77857__eth_zurich___zurich_ -- _20127__eth_zurich___zurich_
+}

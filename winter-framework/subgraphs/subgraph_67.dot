@@ -1,0 +1,5 @@
+graph {
+_56777__university_toulouse_le_mirail___toulouse_ -- _5563__university_toulouse_ii_le_mirail___toulouse_
+_56777__university_toulouse_le_mirail___toulouse_ -- _66495__university_toulouse_ii_le_mirail___toulouse_
+_66495__university_toulouse_ii_le_mirail___toulouse_ -- _5563__university_toulouse_ii_le_mirail___toulouse_
+}

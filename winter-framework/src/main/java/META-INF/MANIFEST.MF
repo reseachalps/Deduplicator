@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: it.unimore.deduplication.it.unimore.model.ProjectDeduplica
+ tion
+

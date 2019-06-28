@@ -1,0 +1,8 @@
+graph {
+_57462__aau___vienna_ -- _61782__hvb___vienna_
+_57462__aau___vienna_ -- _67641__uni___vienna_
+_67641__uni___vienna_ -- _64038__muw___vienna_
+_67641__uni___vienna_ -- _61782__hvb___vienna_
+_57462__aau___vienna_ -- _64038__muw___vienna_
+_61782__hvb___vienna_ -- _64038__muw___vienna_
+}

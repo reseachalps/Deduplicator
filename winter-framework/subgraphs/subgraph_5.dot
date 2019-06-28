@@ -1,0 +1,5 @@
+graph {
+_1426__university_caen_bassenormandie___caen_ -- _2085__universite_caen_bassenormandie___caen_
+_79401__universite_caen_basse_normandie___caen_ -- _1426__university_caen_bassenormandie___caen_
+_2085__universite_caen_bassenormandie___caen_ -- _79401__universite_caen_basse_normandie___caen_
+}

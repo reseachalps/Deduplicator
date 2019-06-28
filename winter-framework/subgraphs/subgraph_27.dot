@@ -1,0 +1,5 @@
+graph {
+_69943__university_triesteitaly___trieste_ -- _65035__university_triesteitaly___trieste_
+_50043__university_triesteitaly___trieste_ -- _69943__university_triesteitaly___trieste_
+_65035__university_triesteitaly___trieste_ -- _50043__university_triesteitaly___trieste_
+}

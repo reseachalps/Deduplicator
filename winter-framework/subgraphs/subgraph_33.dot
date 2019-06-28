@@ -1,0 +1,5 @@
+graph {
+_25442__university_vechta___vechta_ -- _30494__university_vechta___vechta_
+_30494__university_vechta___vechta_ -- _24111__university_vechta___vechta_
+_24111__university_vechta___vechta_ -- _25442__university_vechta___vechta_
+}

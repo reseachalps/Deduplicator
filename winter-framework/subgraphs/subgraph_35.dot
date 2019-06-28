@@ -1,0 +1,12 @@
+graph {
+_5756__university_bremen___bremen_ -- _54145__university_bremen___bremen_
+_5756__university_bremen___bremen_ -- _47373__university_bremen___bremen_
+_54145__university_bremen___bremen_ -- _224__university_bremen___bremen_
+_54145__university_bremen___bremen_ -- _47373__university_bremen___bremen_
+_619__universityt_bremen___bremen_ -- _224__university_bremen___bremen_
+_47373__university_bremen___bremen_ -- _224__university_bremen___bremen_
+_224__university_bremen___bremen_ -- _5756__university_bremen___bremen_
+_54145__university_bremen___bremen_ -- _619__universityt_bremen___bremen_
+_619__universityt_bremen___bremen_ -- _5756__university_bremen___bremen_
+_47373__university_bremen___bremen_ -- _619__universityt_bremen___bremen_
+}

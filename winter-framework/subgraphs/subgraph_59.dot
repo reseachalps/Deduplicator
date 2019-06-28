@@ -1,0 +1,8 @@
+graph {
+_2051__universityt_augsburg___augsburg_ -- _40967__university_augsburg___augsburg_
+_40967__university_augsburg___augsburg_ -- _31852__universityt_augsburg___augsburg_
+_52082__university_augsburg___augsburg_ -- _2051__universityt_augsburg___augsburg_
+_31852__universityt_augsburg___augsburg_ -- _2051__universityt_augsburg___augsburg_
+_31852__universityt_augsburg___augsburg_ -- _52082__university_augsburg___augsburg_
+_52082__university_augsburg___augsburg_ -- _40967__university_augsburg___augsburg_
+}
